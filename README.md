@@ -61,4 +61,4 @@ For privacy sake, the IP addresses have been anonymized with [Crypto-PAN](https:
 | 889				|   Update via HTTP	|
 
 
-You can find the traces here [traces](https://drive.google.com/open?id=1iuSKJb5h__aQ2f41-fdz9e_yxYMV7cM6)
+You can find the traces [here](https://drive.google.com/open?id=1iuSKJb5h__aQ2f41-fdz9e_yxYMV7cM6)
